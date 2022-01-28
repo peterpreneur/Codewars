@@ -37,4 +37,6 @@ class Diamond {
 			return diamond;
 		}
 	}
+
+
 }
