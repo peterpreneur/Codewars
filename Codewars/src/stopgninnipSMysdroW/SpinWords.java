@@ -11,6 +11,7 @@ public class SpinWords {
 			String word = token;			
 			}
 			
+			
 			String test= spinWordGtFive(sentence);
 
 		}
