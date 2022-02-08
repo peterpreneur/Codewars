@@ -21,4 +21,8 @@ public class NthSeriesTests {
 	public void test3() {
 		assertEquals("1.94", NthSeries.seriesSum(15));
 	}
+	@Test
+	public void test4() {
+		assertEquals("2.26", NthSeries.seriesSum(39));
+	}	
 }
